@@ -2,7 +2,7 @@
 Simple demo application for creating tree like inputs with buttons and other stuff in React.
 ===================
 
-![image](https://raw.githubusercontent.com/viktornar/treegen/master/images/application.png)
+![image](https://raw.githubusercontent.com/viktornar/treegen-react/master/images/application.png)
 
 The main technologies (frameworks, libraries) that was used in project
 -------------

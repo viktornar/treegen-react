@@ -17,13 +17,13 @@ How to run project
 Clone the project with the following command:
 
 ```bash
-$ git clone https://github.com/viktornar/treegen
+$ git clone https://github.com/viktornar/treegen-react
 ```
 
 Go to the project directory:
 
 ```bash
-$ cd treegen
+$ cd treegen-react
 ```
 
 ```bash

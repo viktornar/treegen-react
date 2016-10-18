@@ -1,0 +1,6 @@
+{
+  "name": "TreeGen",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./TreeGen.js"
+}
